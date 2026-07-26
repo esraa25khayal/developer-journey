@@ -4,13 +4,13 @@ Software Developer | IT Graduate
 
 Welcome to my developer journey.
 
-This repository contains my projects, notes, and everything I learn as I grow as a software developer.
+This repository showcases my projects, learning notes, and progress as I continue growing as a software developer.
 
 ## About Me
 
 - IT Graduate (Software)
 - Interested in Software Development
-- Always learning and building new projects
+- Continuously learning and building software projects
 
 ## What You'll Find Here
 
@@ -19,4 +19,4 @@ This repository contains my projects, notes, and everything I learn as I grow as
 - Practice
 - Learning Progress
 
-Thanks for visiting!
+hanks for visiting my profile
